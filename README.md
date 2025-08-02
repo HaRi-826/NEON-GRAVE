@@ -33,46 +33,28 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+https://github.com/Titan121321/NEON-GRAVE
 
 # Run
-[commands]
+open index.html in a browser. Make sure that audio and video is not blocked in your browser.
 
 ### Project Documentation
-For Software:
+This text based game is made to question ourselves on what we think on what it means to be human. It was implemented using html,css and js.
+The game contains two different endings.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-02 at 02 20 34_62916381](https://github.com/user-attachments/assets/be9de797-dbae-4275-9b4d-38eec44f5ce5)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*This is the starting screen of the game*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1919" height="860" alt="Screenshot 2025-08-02 021955" src="https://github.com/user-attachments/assets/b103b239-0ede-4233-898b-1b9e2e66ee56" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+This is the roulette part of the game*
 
-For Hardware:
+<img width="1919" height="859" alt="Screenshot 2025-08-02 022031" src="https://github.com/user-attachments/assets/e5bbe11f-924d-40d3-862f-94e46d0c3b59" />
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+*This is the death screen of the game*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
