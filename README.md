@@ -42,7 +42,7 @@ open index.html in a browser. Make sure that audio and video is not blocked in y
 
 ### Project Documentation
 This text based game is made to question ourselves on what we think on what it means to be human. It was implemented using html,css and js.
-The game contains two different endings.
+The game contains two different endings. All the images,videos and gif's used in the game are from pintrest.
 
 # Screenshots (Add at least 3)
 ![WhatsApp Image 2025-08-02 at 02 20 34_62916381](https://github.com/user-attachments/assets/be9de797-dbae-4275-9b4d-38eec44f5ce5)
