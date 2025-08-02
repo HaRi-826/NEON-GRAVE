@@ -62,12 +62,8 @@ This is the roulette part of the game*
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://github.com/Titan121321/NEON-GRAVE
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
