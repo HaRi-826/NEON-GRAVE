@@ -7,6 +7,8 @@
 ## Basic Details
 ### Team Name: Superhumans
 
+### *Play the game here:* https://titan121321.github.io/NEON-GRAVE/
+
 
 ### Team Members
 - Team Lead: Harikrishnan V - TKM College of Engineering
