@@ -1,39 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# NEON GRAVE🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Superhumans
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Harikrishnan V - TKM College of Engineering
+- Member 2: Anandhu Ajai - TKM College of Engineering
 
 ### Project Description
-[2-3 lines about what your project does]
+A weird mix of dystopian cyberpunk future and russian roulette
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+What does it mean to be a human
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Putting us in extreme hypothetical situations to find clarity on the issues of life
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- Js
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
