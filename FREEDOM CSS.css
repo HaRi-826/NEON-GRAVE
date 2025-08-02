@@ -1,0 +1,66 @@
+﻿@import url('https://fonts.cdnfonts.com/css/minecraftia');
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  font-family: 'minecraftia', sans-serif;
+  color: white;
+  overflow: hidden;
+}
+
+#background-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.center-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -65%);
+  width: 550px;
+  height: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textbox {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  height:100px;
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+  @font-face {
+  font-family: 'Minecraft';
+  src: url('game assets\Minecraft.ttf') format('truetype');
+}
+
+}
+
+#nextBtn {
+  position: absolute;
+  right: 10px;
+  bottom: 15px;
+  padding: 8px 16px;
+  border: 2px solid rgb(140, 140, 140);
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#nextBtn:hover {
+  background-color: grey;
+  color: black;
+}
