@@ -60,8 +60,12 @@ This is the roulette part of the game*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/RRNRhVmjNSE?si=Q699tNovAk84NyjP
+*Death route of the game*
+
+
+https://youtu.be/f1brgKeS-FI?si=c2AmXzeruD3A9mgl
+*life route of the game*
 
 # Additional Demos
 https://github.com/Titan121321/NEON-GRAVE
