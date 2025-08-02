@@ -15,13 +15,13 @@
 - Member 2: Anandu Ajai - TKM College of Engineering
 
 ### Project Description
-A weird mix of dystopian cyberpunk future and russian roulette
+A weird mix of dystopian cyberpunk future and russian roulette.
 
 ### The Problem (that doesn't exist)
-What does it mean to be a human
+What does it mean to be a human?
 
 ### The Solution (that nobody asked for)
-Putting us in extreme hypothetical situations to find clarity on the issues of life
+Putting us in extreme hypothetical situations to find clarity on the issues of life.
 
 ## Technical Details
 ### Technologies/Components Used
