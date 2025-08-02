@@ -12,7 +12,7 @@
 
 ### Team Members
 - Team Lead: Harikrishnan V - TKM College of Engineering
-- Member 2: Anandhu Ajai - TKM College of Engineering
+- Member 2: Anandu Ajai - TKM College of Engineering
 
 ### Project Description
 A weird mix of dystopian cyberpunk future and russian roulette
